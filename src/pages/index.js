@@ -11,7 +11,7 @@ const IndexPage = () => (
       title="Halo niscing disini"
       description="Niscing adalah nama kucing peliharaan. Ketika namanya dipanggil, dia akan menoleh dan mengatakan meong"
     />
-    <h1>Hi Niscing Disini</h1>
+    <h1>Hai Niscing Disini</h1>
     <p>Niscing adalah nama hewan.</p>
     <p>
       Website ini dibuat untuk mengetes SEO dengan memanfaatkan keyword
