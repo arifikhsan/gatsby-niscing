@@ -3,7 +3,7 @@ module.exports = {
     siteUrl: `https://niscing.now.sh`,
     title: `Niscing Website`,
     description: `Deskripsi tentang website niscing. Niscing adalah nama kucing. Kucing adalah nama hewan peliharaan. Peliharaan adalah kucing.`,
-    author: `@gatsbyjs`,
+    author: `Arif Ikhsanudin`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
