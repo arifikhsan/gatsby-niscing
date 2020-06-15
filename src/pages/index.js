@@ -21,6 +21,7 @@ const IndexPage = () => (
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
+    <Link to="/hewan-apa-itu-niscing/">Hewan apa itu niscing?</Link> <br />
     <Link to="/page-2/">Halaman kedua</Link> <br />
     <Link to="/using-typescript/">Typescript</Link>
   </Layout>
