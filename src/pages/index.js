@@ -7,15 +7,22 @@ import SEO from "../components/seo"
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="Home" />
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
+    <SEO
+      title="Halo niscing disini"
+      description="Niscing adalah nama kucing peliharaan. Ketika namanya dipanggil, dia akan menoleh dan mengatakan meong"
+    />
+    <h1>Hi Niscing Disini</h1>
+    <p>Niscing adalah nama hewan.</p>
+    <p>
+      Website ini dibuat untuk mengetes SEO dengan memanfaatkan keyword
+      'niscing'. Karena 'niscing' tidak ada yang menjadi kompetitior sehingga
+      masuk ke halaman pertama google akan mudah.
+    </p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
-    <Link to="/page-2/">Go to page 2</Link> <br />
-    <Link to="/using-typescript/">Go to "Using TypeScript"</Link>
+    <Link to="/page-2/">Halaman kedua</Link> <br />
+    <Link to="/using-typescript/">Typescript</Link>
   </Layout>
 )
 

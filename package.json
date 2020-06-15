@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "gatsby-niscing",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "Sebuah website yang didedikasikan untuk niscing. Niscing Gatsby adalah blog yang dibuat dengan GatsbyJS.",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Arif Ikhsanudin <arif.ikhsanudin.developer@gmail.com>",
   "dependencies": {
     "gatsby": "^2.22.15",
     "gatsby-image": "^2.4.5",
