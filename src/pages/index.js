@@ -22,8 +22,8 @@ const IndexPage = () => (
       <Image />
     </div>
     <Link to="/hewan-apa-itu-niscing/">Hewan apa itu niscing?</Link> <br />
-    <Link to="/page-2/">Halaman kedua</Link> <br />
-    <Link to="/using-typescript/">Typescript</Link>
+    <Link to="/apa-itu-niscing/">Apa itu niscing?</Link> <br />
+    <Link to="/dimanakah-niscing/">Dimanakah Niscing</Link>
   </Layout>
 )
 
