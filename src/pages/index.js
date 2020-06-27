@@ -9,7 +9,7 @@ const IndexPage = () => (
   <Layout>
     <SEO
       title="Halo niscing disini"
-      description="Niscing adalah nama kucing peliharaan. Ketika namanya dipanggil, dia akan menoleh dan mengatakan meong"
+      description="Niscing adalah nama kucing peliharaan. Ketika namanya dipanggil, dia akan menoleh dan mengatakan meong. Kalau beruntung, dia akan mendekat."
     />
     <h1>Halo Niscing Disini</h1>
     <p>Niscing adalah nama hewan.</p>
